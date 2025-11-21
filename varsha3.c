@@ -2,9 +2,9 @@
 int main()
 {
     int id ;
-    int PAN Number, AADHAR_Number, APAAR_Id, Driving License, Passport;
-    printf("enter the id like PAN Number, AADHAR_Number, APAAR_Id, Driving License, Passport\n");
-    scanf("%d" , &PAN Number, &AADHAR_Number, &APAAR_Id, &Driving License, &Passport);
+    int PANNumber, AADHAR_Number, APAAR_Id, DrivingLicense, Passport;
+    printf("enter the id like PANNumber, AADHAR_Number, APAAR_Id, DrivingLicense, Passport\n");
+    scanf("%d" , &PANNumber, &AADHAR_Number, &APAAR_Id, &DrivingLicense, &Passport);
     if(id=123456)
     {
         printf("the individual is verified\n");
